@@ -1,5 +1,5 @@
 # learn-bitcoin
-Bitcoin is an open source decentralised mathematically secured peer-to-peer currency system.
+Bitcoin is an open source decentralised cryptographically secured peer-to-peer currency system.
 
 
 
